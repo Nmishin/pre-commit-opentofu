@@ -1,6 +1,6 @@
 # Collection of git hooks for OpenTofu to be used with [pre-commit framework](http://pre-commit.com/)
 
-[![Github tag](https://img.shields.io/github/tag/tofuutils/pre-commit-opentofu.svg)](https://github.com/tofuutils/pre-commit-opentofu/releases) ![maintenance status](https://img.shields.io/maintenance/yes/2024.svg) [![Help Contribute to Open Source](https://www.codetriage.com/tofuutils/pre-commit-opentofu/badges/users.svg)](https://www.codetriage.com/tofuutils/pre-commit-opentofu)
+[![Github tag](https://img.shields.io/github/tag/tofuutils/pre-commit-opentofu.svg)](https://github.com/tofuutils/pre-commit-opentofu/releases) ![maintenance status](https://img.shields.io/maintenance/yes/2026.svg) [![Help Contribute to Open Source](https://www.codetriage.com/tofuutils/pre-commit-opentofu/badges/users.svg)](https://www.codetriage.com/tofuutils/pre-commit-opentofu)
 
 Want to contribute? Check [open issues](https://github.com/tofuutils/pre-commit-opentofu/issues?q=label%3A%22good+first+issue%22+is%3Aopen+sort%3Aupdated-desc) and [contributing notes](/.github/CONTRIBUTING.md).
 
